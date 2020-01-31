@@ -81,7 +81,7 @@ main {
   display: grid;
   height: 5000px;
   grid-template-columns: 1fr;
-  grid-template-rows: 200px 1fr;
+  grid-template-rows: 200px repeat(8, 1fr);
 }
 
 header {  
@@ -111,4 +111,36 @@ nav ul li {
 .first-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-row: 2 / span 2;
+}
+
+.div-style {
+    background-color: darkgray;
+    border: 1px solid black;
+}
+
+.second-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row: 4 / span 2;
+}
+
+.third-section {
+    display: grid;
+    grid-template-rows: 1fr 30%;
+}
+
+.fourth-section {
+    display: grid;
+    grid-template-rows: 1fr;
+}
+
+.fifth-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 200%;
+}
+
+.larger{
+    grid-column: 1 / span 2;
 }
