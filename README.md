@@ -13,7 +13,7 @@ Project description.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/DESIGN-TEARDOWN/ef250e355fa5d6f907bd190d5a8c91a3e5f5a5e2/index.html)
+[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/DESIGN-TEARDOWN/2877c4f3677e42e48c4dcdad7e8899d7f5a35ea9/index.html)
 
 
 ## Getting Started
