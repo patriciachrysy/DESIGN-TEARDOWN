@@ -1,6 +1,6 @@
-# Project Name
+# Smashing Magazine heatmap page
 
-> Project Title.
+> Smashing Magazine heatmap page.
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,7 +13,7 @@ Project description.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/DESIGN-TEARDOWN/2877c4f3677e42e48c4dcdad7e8899d7f5a35ea9/index.html)
 
 
 ## Getting Started
@@ -59,14 +59,14 @@ To get a local copy up and running follow these simple example steps.
 👤 Manezeu Patricia Chrystelle
 
 - Github: [@githubhandle](https://github.com/patriciachrysy)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/ManezeuP)
+- Linkedin: [linkedin](https://www.linkedin.com/in/manezeu-patricia-chrystelle-095072118/)
 
-👤 **Author2**
+👤 Roman Nikolaev 
 
-- Github: [@githubhandle]()
+- Github: [@githubhandle](https://github.com/vzdrizhni)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Linkedin: [linkedin](https://twitter.com/metabruta)
 
 ## 🤝 Contributing
 
